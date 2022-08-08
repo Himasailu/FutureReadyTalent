@@ -12,6 +12,7 @@ The screenshots of the project is given below
 ![image](https://user-images.githubusercontent.com/96177041/183457002-bd13427a-10a5-4473-aba0-8367c8d22764.png)
 ![image](https://user-images.githubusercontent.com/96177041/183457264-ef6ffdbe-42aa-443d-8707-1cfe4c073d3a.png)
 # About us:
+![image](https://user-images.githubusercontent.com/96177041/183459747-767b21a9-9e73-4c7d-8116-dc6d2524d639.png)
 ![image](https://user-images.githubusercontent.com/96177041/183457481-80002a55-a159-44e3-86f9-e447d297b8e2.png)
 ![image](https://user-images.githubusercontent.com/96177041/183457551-c576fd66-9cfa-4c46-b266-f368b9f83537.png)
 ![image](https://user-images.githubusercontent.com/96177041/183457620-8fd9be1f-aad7-4e10-9f60-d3b850c26943.png)
