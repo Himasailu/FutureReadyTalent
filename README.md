@@ -22,6 +22,7 @@ The screenshots of the project is given below
 ![image](https://user-images.githubusercontent.com/96177041/183457885-10de4f28-b693-47df-8e33-92bd457a9325.png)
 # Deployment of Static WebApp:-
 ![image](https://user-images.githubusercontent.com/96177041/183461084-8a8a14cd-e962-4d2d-8c6e-82d580534f91.png)
+![image](https://user-images.githubusercontent.com/96177041/183462235-eb0ef103-3fb6-4fa9-ae0c-72ce79faac15.png)
 ![image](https://user-images.githubusercontent.com/96177041/183461927-ec9c1b90-02c6-49cf-9176-6fcfd18a4dc2.png)
 
 
